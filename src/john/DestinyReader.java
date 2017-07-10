@@ -68,28 +68,31 @@ public class DestinyReader {
 		Timestamp currentTime = null;
 		while((line = br.readLine()) != null){
 			if(Character.isDigit(line.charAt(0))){
-			parsedTimeStamp = dateFormat.parse(line.substring(0,19));
-			currentTime = new Timestamp(parsedTimeStamp.getTime());
+				parsedTimeStamp = dateFormat.parse(line.substring(0,19));
+				currentTime = new Timestamp(parsedTimeStamp.getTime());
 			}
-			if(currentTime.compareTo(timestampStart) > 0){
-				while(((line = br.readLine()) != null && currentTime.compareTo(timestampEnd) <= 0) || !Character.isDigit(line.charAt(0))){
-					if(Character.isDigit(line.charAt(0))){
-					parsedTimeStamp = dateFormat.parse(line.substring(0,19));
-					currentTime = new Timestamp(parsedTimeStamp.getTime());
-					}
+			if(currentTime.compareTo(timestampStart) >= 0){
+				do{
 					fileContents.add(line);
+					line = br.readLine();
+					if(Character.isDigit(line.charAt(0))){
+						parsedTimeStamp = dateFormat.parse(line.substring(0,19));
+						currentTime = new Timestamp(parsedTimeStamp.getTime());
+					} 
 				}
+				while ((line != null && currentTime.compareTo(timestampEnd) < 0) || !Character.isDigit(line.charAt(0)));
 			}
 			if(!fileContents.isEmpty()){
 				break;
 			}
-			
-			// For loop checks if line contains the strings that should be removed
-
 		}
+
+		// For loop checks if line contains the strings that should be removed
+
 		fr.close();
 	}
-	
+
+
 
 	private void CheckLines(BufferedReader br) throws IOException{
 		// Iterates through each line in the file
