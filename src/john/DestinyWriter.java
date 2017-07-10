@@ -12,7 +12,7 @@ public class DestinyWriter {
 	FileWriter fw = null;
 	
 	DestinyWriter(ArrayList<String> Contents) throws IOException {
-		System.out.println("Please enter location of output file");
+		System.out.println("Please enter file to be outputted");
 		try {
 			fw = new FileWriter(scanner.nextLine());
 		bw = new BufferedWriter(fw);

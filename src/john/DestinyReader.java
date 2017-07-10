@@ -24,9 +24,8 @@ public class DestinyReader {
 
 	public DestinyReader() throws IOException, ParseException{
 		BuildList(); // Builds ArrayLists that are used
-
 		// Opens File and BufferedReader
-		System.out.println("Please enter file location");
+		System.out.println("Please provide file to be read");
 		fr = new FileReader(scanner.nextLine());
 		br = new BufferedReader(fr);
 		AddRemoves();
@@ -39,7 +38,7 @@ public class DestinyReader {
 		//  Allows users to input Strings they want removed from the file until "Done" is entered
 		String input = "";
 		while (true){
-			System.out.println("Please enter a word you want removed.  Enter 'Done' when done.");
+			System.out.println("Please enter a word you want removed.  Enter 'Done' when done.  Enter 'Time' to select lines based on time.");
 			input = scanner.nextLine(); 
 			if(input.equals("Time")){
 				CheckLinesTime(br);
@@ -57,11 +56,11 @@ public class DestinyReader {
 		SimpleDateFormat dateFormat = new SimpleDateFormat(
 				"yyyy-MM-dd hh:mm:ss");
 		String line;
-		System.out.println("Enter start time");
+		System.out.println("Enter start time in format 'yyyy-MM-dd hh:mm:ss'");
 		String start = scanner.nextLine();
 		Date parsedTimeStamp = dateFormat.parse(start);		
 		Timestamp timestampStart = new Timestamp(parsedTimeStamp.getTime());
-		System.out.println("Enter end time");
+		System.out.println("Enter end time in format 'yyyy-MM-dd hh:mm:ss'");
 		String end = scanner.nextLine();
 		parsedTimeStamp = dateFormat.parse(end);
 		Timestamp timestampEnd = new Timestamp(parsedTimeStamp.getTime());	   
@@ -75,14 +74,17 @@ public class DestinyReader {
 				do{
 					fileContents.add(line);
 					line = br.readLine();
+					if(line == null){
+						break;
+					}
 					if(Character.isDigit(line.charAt(0))){
 						parsedTimeStamp = dateFormat.parse(line.substring(0,19));
 						currentTime = new Timestamp(parsedTimeStamp.getTime());
 					} 
 				}
-				while ((line != null && currentTime.compareTo(timestampEnd) < 0) || !Character.isDigit(line.charAt(0)));
+				while ((line != null && currentTime.compareTo(timestampEnd) < 0) || !(Character.isDigit(line.charAt(0))));
 			}
-			if(!fileContents.isEmpty()){
+			if(!(fileContents.isEmpty())){
 				break;
 			}
 		}
