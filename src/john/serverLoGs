@@ -1,0 +1,269 @@
+2017-07-02 10:14:44	INFO 	destiny	()	Using jboss-log4j.xml file found in path: G:\deploy\FSC-Destiny/jboss/server/destiny/conf/jboss-log4j.xml
+2017-07-02 10:14:52	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:14:52	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:14:52	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:14:52	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1001 - UserID: null
+2017-07-02 10:14:55	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1001 - UserID: null
+2017-07-02 10:14:55	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:14:55	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:14:55	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:14:55	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process authority import file authrexp.001
+2017-07-02 10:14:55	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1001 - UserID: null
+2017-07-02 10:14:55	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1001 - UserID: null
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:14:58	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:14:58	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:14:58	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:14:58	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1002 - UserID: null
+2017-07-02 10:14:59	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1002 - UserID: null
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No authority import file authrexp.001 to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:15:01	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:01	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:01	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:15:01	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1003 - UserID: null
+2017-07-02 10:15:03	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1003 - UserID: null
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No authority import file authrexp.001 to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:15:05	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:05	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:05	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:15:05	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1004 - UserID: null
+2017-07-02 10:15:07	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1004 - UserID: null
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No authority import file authrexp.001 to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:15:09	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:09	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:09	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:15:09	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1005 - UserID: null
+2017-07-02 10:15:11	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1005 - UserID: null
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No authority import file authrexp.001 to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:15:13	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:13	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:13	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:15:13	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1006 - UserID: null
+2017-07-02 10:15:15	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1006 - UserID: null
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No authority import file authrexp.001 to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:15:16	INFO 	JobConcurrency	()	Starting buildJobMatrix for context = test_db_ttaas
+2017-07-02 10:15:16	INFO 	LuceneWrapper	()	Lucene.MaxCrissCrossSearchSize=2147483647
+2017-07-02 10:15:16	INFO 	LuceneWrapper	()	Lucene.MaxCrissCrossDurationMillis=5000
+2017-07-02 10:15:16	INFO 	LuceneWrapper	()	MAX_LUCENE_BOOLEAN_CLAUSE_COUNT=5000
+2017-07-02 10:15:16	INFO 	LuceneWrapper	()	LuceneWrapper.minimumFuzzyTermsForShortCut=10
+2017-07-02 10:15:16	INFO 	LuceneWrapper	()	LuceneWrapper.minimumLevenshteinForFuzzyShortCut=0.8
+2017-07-02 10:15:17	INFO 	JobConcurrency	()	Ending buildJobMatrix for context = test_db_ttaas
+2017-07-02 10:15:17	INFO 	JobConcurrency	()	Starting buildJobMatrix for context = test_db_ttaas
+2017-07-02 10:15:17	INFO 	JobConcurrency	()	Ending buildJobMatrix for context = test_db_ttaas
+2017-07-02 10:15:18	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:18	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:18	INFO 	SiteImportJob	()	SiteImport: Poopfs: start process bib import file: marcrexp.001
+2017-07-02 10:15:18	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1007 - UserID: null
+2017-07-02 10:15:20	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1007 - UserID: null
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No textbook import file textbook.out to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No patron import file patrnexp.out to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No authority import file authrexp.001 to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No category import file: catstype.xml
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No patron type file patstype.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No circ type import file: circtype.xml
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No copy notes import file: copynote.xml
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No fine type import file finetype.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No fine import file expfines.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No hold import file: holdsinf.xml
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No circ stats import file: circstat.xml
+2017-07-02 10:15:21	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:21	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:21	INFO 	SiteImportJob	()	SiteImport: textlink: start process bib import file: marcrexp.001
+2017-07-02 10:15:21	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1008 - UserID: null
+2017-07-02 10:15:23	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1008 - UserID: null
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No textbook import file textbook.out to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No patron import file patrnexp.out to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No authority import file authrexp.001 to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No category import file: catstype.xml
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No patron type file patstype.xml to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No circ type import file: circtype.xml
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No copy notes import file: copynote.xml
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No fine type import file finetype.xml to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No fine import file expfines.xml to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No hold import file: holdsinf.xml
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No circ stats import file: circstat.xml
+2017-07-02 10:15:25	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:25	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:26	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:26	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:28	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:28	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:28	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: No bib import marcrexp.001 to import.
+2017-07-02 10:15:28	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: start process textbook conditions file: conditio.xml
+2017-07-02 10:15:28	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: start process textbook import file: textbook.out
+2017-07-02 10:15:28	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1011 - UserID: null
+2017-07-02 10:15:30	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1011 - UserID: null
+2017-07-02 10:15:30	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: start process patron import file: patrnexp.out
+2017-07-02 10:15:30	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1011 - UserID: null
+2017-07-02 10:15:30	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1011 - UserID: null
+2017-07-02 10:15:30	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: No authority import file authrexp.001 to import.
+2017-07-02 10:15:30	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: No category import file: catstype.xml
+2017-07-02 10:15:30	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: start process patron type file patstype.xml
+2017-07-02 10:15:31	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: No circ type import file: circtype.xml
+2017-07-02 10:15:31	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: start process textbook system dates file systdate.xml
+2017-07-02 10:15:31	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: start process textbook classes file clperiod.xml
+2017-07-02 10:15:31	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: start process copy info file copyinfo.xml
+2017-07-02 10:15:31	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: No copy notes import file: copynote.xml
+2017-07-02 10:15:31	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: start process patron note import file patrnote.xml
+2017-07-02 10:15:31	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: start process fine type import file finetype.xml
+2017-07-02 10:15:32	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: start process fine import file expfines.xml
+2017-07-02 10:15:32	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: No hold import file: holdsinf.xml
+2017-07-02 10:15:32	INFO 	SiteImportJob	()	SiteImport: My Textbook/Site: No circ stats import file: circstat.xml
+2017-07-02 10:15:34	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:34	WARN 	SiteImportJob	()	Didn't find the Configuration Info in the Site Import file
+2017-07-02 10:15:35	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:35	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:35	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: start process bib import file: marcrexp.001
+2017-07-02 10:15:35	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1013 - UserID: null
+2017-07-02 10:15:37	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1013 - UserID: null
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No textbook import file textbook.out to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No patron import file patrnexp.out to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No authority import file authrexp.001 to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No category import file: catstype.xml
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No patron type file patstype.xml to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No circ type import file: circtype.xml
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No copy notes import file: copynote.xml
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No fine type import file finetype.xml to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No fine import file expfines.xml to import.
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No hold import file: holdsinf.xml
+2017-07-02 10:15:37	INFO 	SiteImportJob	()	SiteImport: PýLlCxyT: No circ stats import file: circstat.xml
+2017-07-02 10:15:39	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:39	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:39	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process bib import file: marcrexp.001
+2017-07-02 10:15:39	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1014 - UserID: null
+2017-07-02 10:15:41	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1014 - UserID: null
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: No textbook import file textbook.out to import.
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: No patron import file patrnexp.out to import.
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: No authority import file authrexp.001 to import.
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process category import file: catstype.xml
+2017-07-02 10:15:41	ERROR	SiteImportJob	()	Failed to import catstype.xml
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process patron type file patstype.xml
+2017-07-02 10:15:41	ERROR	SiteImportJob	()	Failed to import patstype.xml
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process circ type import file: circtype.xml
+2017-07-02 10:15:41	ERROR	SiteImportJob	()	Failed to import circtype.xml
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process copy info file copyinfo.xml
+2017-07-02 10:15:41	ERROR	SiteImportJob	()	Failed to import copyinfo.xml
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process copy notes import file: copynote.xml
+2017-07-02 10:15:41	ERROR	SiteImportJob	()	Failed to import copynote.xml
+2017-07-02 10:15:41	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process patron note import file patrnote.xml
+2017-07-02 10:15:41	ERROR	SiteImportJob	()	Failed to import patrnote.xml
+2017-07-02 10:15:42	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process fine type import file finetype.xml
+2017-07-02 10:15:42	ERROR	SiteImportJob	()	Failed to import finetype.xml
+2017-07-02 10:15:42	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process fine import file expfines.xml
+2017-07-02 10:15:42	ERROR	SiteImportJob	()	Failed to import expfines.xml
+2017-07-02 10:15:42	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process hold import file: holdsinf.xml
+2017-07-02 10:15:42	ERROR	SiteImportJob	()	Failed to import holdsinf.xml
+2017-07-02 10:15:42	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process circ stats import file: circstat.xml
+2017-07-02 10:15:44	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:44	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:44	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: start process bib import file: marcrexp.001
+2017-07-02 10:15:44	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Invoking run on job: null - Running - JobID: null - SiteID: 1015 - UserID: null
+2017-07-02 10:15:46	INFO 	JobWrapper	(( Context:test_db_ttaas ) Job: null - Pending Start - JobID: null - SiteID: null - UserID: null  Context:test_db_ttaas )	 (Running Direct) Done running job: null - Complete - JobID: null - SiteID: 1015 - UserID: null
+2017-07-02 10:15:46	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:46	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: No textbook import file textbook.out to import.
+2017-07-02 10:15:46	INFO 	SiteImportJob	()	SiteImport: asdfasdfd: No patron import file patrnexp.out to import.
+2017-07-02 10:15:46	INFO 	SiteIm

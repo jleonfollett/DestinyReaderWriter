@@ -1,0 +1,154 @@
+2017-07-02 10:14:44	INFO 	destiny	()	Using jboss-log4j.xml file found in path: G:\deploy\FSC-Destiny/jboss/server/destiny/conf/jboss-log4j.xml
+2017-07-02 10:14:52	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:14:52	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:14:52	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:14:55	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:14:55	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:14:55	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:14:55	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process authority import file authrexp.001
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:14:56	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:14:58	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:14:58	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:14:58	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No authority import file authrexp.001 to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:14:59	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:15:01	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:01	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:01	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No authority import file authrexp.001 to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:15:03	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:15:05	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:05	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:05	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No authority import file authrexp.001 to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:15:07	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:15:09	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:09	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:09	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No authority import file authrexp.001 to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:15:11	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:15:13	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:13	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:13	INFO 	SiteImportJob	()	SiteImport: aabbcc: start process bib import file: marcrexp.001
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook import file textbook.out to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron import file patrnexp.out to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No authority import file authrexp.001 to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No category import file: catstype.xml
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron type file patstype.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ type import file: circtype.xml
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No copy notes import file: copynote.xml
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine type import file finetype.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No fine import file expfines.xml to import.
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No hold import file: holdsinf.xml
+2017-07-02 10:15:15	INFO 	SiteImportJob	()	SiteImport: aabbcc: No circ stats import file: circstat.xml
+2017-07-02 10:15:16	INFO 	JobConcurrency	()	Starting buildJobMatrix for context = test_db_ttaas
+2017-07-02 10:15:16	INFO 	LuceneWrapper	()	Lucene.MaxCrissCrossSearchSize=2147483647
+2017-07-02 10:15:16	INFO 	LuceneWrapper	()	Lucene.MaxCrissCrossDurationMillis=5000
+2017-07-02 10:15:16	INFO 	LuceneWrapper	()	MAX_LUCENE_BOOLEAN_CLAUSE_COUNT=5000
+2017-07-02 10:15:16	INFO 	LuceneWrapper	()	LuceneWrapper.minimumFuzzyTermsForShortCut=10
+2017-07-02 10:15:16	INFO 	LuceneWrapper	()	LuceneWrapper.minimumLevenshteinForFuzzyShortCut=0.8
+2017-07-02 10:15:17	INFO 	JobConcurrency	()	Ending buildJobMatrix for context = test_db_ttaas
+2017-07-02 10:15:17	INFO 	JobConcurrency	()	Starting buildJobMatrix for context = test_db_ttaas
+2017-07-02 10:15:17	INFO 	JobConcurrency	()	Ending buildJobMatrix for context = test_db_ttaas
+2017-07-02 10:15:18	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:18	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:18	INFO 	SiteImportJob	()	SiteImport: Poopfs: start process bib import file: marcrexp.001
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No textbook import file textbook.out to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No patron import file patrnexp.out to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No authority import file authrexp.001 to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No category import file: catstype.xml
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No patron type file patstype.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No circ type import file: circtype.xml
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No textbook system dates file systdate.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No textbook classes file clperiod.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No copy info file copyinfo.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No copy notes import file: copynote.xml
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No patron note import file patrnote.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No fine type import file finetype.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No fine import file expfines.xml to import.
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No hold import file: holdsinf.xml
+2017-07-02 10:15:20	INFO 	SiteImportJob	()	SiteImport: Poopfs: No circ stats import file: circstat.xml
+2017-07-02 10:15:21	INFO 	SiteImportJob	()	SiteImport: extracting files from package.
+2017-07-02 10:15:21	INFO 	SiteImportJob	()	SiteImport: reading config file exconfig.xml
+2017-07-02 10:15:21	INFO 	SiteImportJob	()	SiteImport: textlink: start process bib import file: marcrexp.001
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No textbook conditions import file conditio.xml to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No textbook import file textbook.out to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No patron import file patrnexp.out to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No authority import file authrexp.001 to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No category import file: catstype.xml
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No patron type file patstype.xml to import.
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No circ type import file: circtype.xml
+2017-07-02 10:15:23	INFO 	SiteImportJob	()	SiteImport: textlink: No textbook system dates file systdate.xml t
