@@ -70,7 +70,7 @@ public class DestinyReader {
 				parsedTimeStamp = dateFormat.parse(line.substring(0,19));
 				currentTime = new Timestamp(parsedTimeStamp.getTime());
 			}
-			if(currentTime.compareTo(timestampStart) >= 0){
+			if(timestampStart.compareTo(currentTime) <= 0){
 				do{
 					fileContents.add(line);
 					line = br.readLine();
@@ -100,7 +100,7 @@ public class DestinyReader {
 		// Iterates through each line in the file
 		String line;
 		while((line = br.readLine()) != null){
-			Result result = Result.GOOD;
+			Result result = Result.GOOD; 
 			// For loop checks if line contains the strings that should be removed
 			for(String removeStr: remove){
 				if(line.contains(removeStr)){
