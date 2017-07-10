@@ -11,6 +11,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class DestinyReader {
+	public static final String UTF8_BOM = "﻿";
 	private BufferedReader br;
 	private FileReader fr;
 	private ArrayList<String> fileContents;
@@ -29,6 +30,12 @@ public class DestinyReader {
 		fr = new FileReader(scanner.nextLine());
 		br = new BufferedReader(fr);
 		AddRemoves();
+	}
+	private static String removeUTF8BOM(String s) {
+	    if (s.startsWith(UTF8_BOM)) {
+	        s = s.substring(3, s.length());
+	    }
+	    return s;
 	}
 	private void BuildList(){
 		fileContents = new ArrayList<String>();
@@ -66,6 +73,7 @@ public class DestinyReader {
 		Timestamp timestampEnd = new Timestamp(parsedTimeStamp.getTime());	   
 		Timestamp currentTime = null;
 		while((line = br.readLine()) != null){
+			line = removeUTF8BOM(line);
 			if(Character.isDigit(line.charAt(0))){
 				parsedTimeStamp = dateFormat.parse(line.substring(0,19));
 				currentTime = new Timestamp(parsedTimeStamp.getTime());
