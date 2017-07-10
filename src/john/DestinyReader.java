@@ -80,7 +80,10 @@ public class DestinyReader {
 					fileContents.add(line);
 				}
 			}
-			break;
+			if(!fileContents.isEmpty()){
+				break;
+			}
+			
 			// For loop checks if line contains the strings that should be removed
 
 		}
